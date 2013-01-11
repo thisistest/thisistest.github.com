@@ -1,15 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>http://thisistest.github.com/blog/2013/01/12/hehe/</loc>
+        <lastmod>2013-01-12T00:33:29+08:00</lastmod>
+    </url>
+    <url>
         <loc>http://thisistest.github.com/robots.txt</loc>
         <lastmod>2013-01-12T00:20:52+08:00</lastmod>
     </url>
     <url>
         <loc>http://thisistest.github.com/</loc>
-        <lastmod>2013-01-12T00:20:52+08:00</lastmod>
+        <lastmod>2013-01-12T00:33:29+08:00</lastmod>
     </url>
     <url>
         <loc>http://thisistest.github.com/blog/archives/</loc>
-        <lastmod>2013-01-12T00:20:52+08:00</lastmod>
+        <lastmod>2013-01-12T00:33:29+08:00</lastmod>
     </url>
 </urlset>
