@@ -1,0 +1,14 @@
+---
+layout: post
+title: "hehe"
+date: 2013-01-12 00:33
+comments: true
+categories: 
+---
+
+# hehe
+
+<!-- UY BEGIN -->
+<div id="uyan_frame"></div>
+<script type="text/javascript" id="UYScript" src="http://v1.uyan.cc/js/iframe.js?UYUserId=1731432" async=""></script>
+<!-- UY END -->
